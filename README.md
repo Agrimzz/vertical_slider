@@ -19,7 +19,7 @@ Check out the live demo: [Vertical Slider Demo](https://vertical-slider-lilac.ve
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/Agrimzz/vertical_slider.git
-   cd vertical_slidera
+   cd vertical_slider
    ```
 
 2. **Install Dependencies**
